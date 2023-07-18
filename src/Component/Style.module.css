@@ -1,0 +1,22 @@
+.transactions{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn{
+    background-color: black;
+    color: azure;
+    margin: 20px;
+    border-radius: 10px;
+}
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.box{
+    border: 5px aqua double;
+    background: rgb(4,245,0);
+    background: radial-gradient(circle, rgba(4,245,0,1) 0%, rgba(245,54,0,1) 100%);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
